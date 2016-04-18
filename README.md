@@ -34,9 +34,15 @@ sudo make install
 ```
 ###Running on Chrome OS: 
 Open a new terminal window
-`ctrl+alt+t`
+```
+ctrl+alt+t
+```
 Access Shell 
-`$ shell`
+```
+$ shell
+```
 Launch in a new tab with Xiwi:
-`$ sudo enter-chroot xiwi -T emacs`
+```
+$ sudo enter-chroot xiwi -T emacs
+```
 
