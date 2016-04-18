@@ -32,3 +32,11 @@ cd ~/Downloads && tar -xf emacs-24.5.tar.* && cd emacs-24.5
 make
 sudo make install
 ```
+###Running on Chrome OS: 
+Open a new terminal window
+`ctrl+alt+t`
+Access Shell 
+`$ shell`
+Launch in a new tab with Xiwi:
+`$ sudo enter-chroot xiwi -T emacs`
+
